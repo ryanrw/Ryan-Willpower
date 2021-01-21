@@ -1,16 +1,6 @@
-Not Ryan. Call me Ryan, but not that Ryan.
+I'm Ryan.
 
-_**RYAN WILLPOWER**_
-
-_**RYAN WILLPOWER**_
-
-_**RYAN WILLPOWER**_
-
-_**RYAN WILLPOWER**_
-
-_**RYAN WILLPOWER**_
-
-✨ I'm a _**junior developer**_ who mainly in TypeScript (or better JavaScript with type, in case you don't know whay TypeScript is.) ✨
+✨ I'm a _**developer**_ ✨
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Willpower)](https://github.com/anuraghazra/github-readme-stats)
 
